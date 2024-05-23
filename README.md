@@ -1,2 +1,2 @@
-# my-azure-scripts
+# mario-az-scripting
 Azure-Scripting
